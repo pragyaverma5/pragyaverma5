@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**pragyaverma5/pragyaverma5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pragya, an IT student.
 
-Here are some ideas to get you started:
+I'm currently learning programming and exploring web development, with a growing focus on React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a space where I’ll be sharing projects, experiments, and things I’m working on as I learn.
+
+---
+
+### Tools & Tech
+
+* C, Python , Java
+* HTML, Tailwind CSS, JavaScript, React
+* Git & GitHub
+
+---
+
+### A Bit About Me
+
+* I prefer learning by doing
+* I value consistency over speed
+* I like building things that help me understand concepts better
