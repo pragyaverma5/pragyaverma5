@@ -1,23 +1,41 @@
-### Hey there 👋
+# Hey 👋
 
-I'm Pragya, an IT student.
+I'm Pragya — a developer focused on building clean, functional web applications.
 
-I'm currently learning programming and exploring web development, with a growing focus on React.
-
-This is a space where I’ll be sharing projects, experiments, and things I’m working on as I learn.
+Currently working with JavaScript and exploring React to build scalable frontend systems.
 
 ---
 
-### Tools & Tech
+## What I'm Doing
 
-* C, Python , Java
-* HTML, Tailwind CSS, JavaScript, React
-* Git & GitHub
+- Building real-world projects to strengthen fundamentals
+- Exploring API design, async workflows, and frontend architecture
+- Improving problem-solving through hands-on development
 
 ---
 
-### A Bit About Me
+## Tech Stack
 
-* I prefer learning by doing
-* I value consistency over speed
-* I like building things that help me understand concepts better
+- Languages: JavaScript, Python, C
+- Frontend: HTML, CSS, React
+- Tools: Git, GitHub
+
+---
+
+## Projects
+
+- API Console — Minimal API testing tool with request history and real-time response handling
+
+---
+
+## Approach
+
+I focus on understanding how things work under the hood rather than just using tools.
+
+Consistency > speed.
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/pragyaverma23
