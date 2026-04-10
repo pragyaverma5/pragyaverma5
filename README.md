@@ -40,6 +40,8 @@ Consistency > speed.
 
 LeetCode → https://leetcode.com/u/pragyaverma_23/
 
+---
+
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/pragyaverma23
