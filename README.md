@@ -47,3 +47,9 @@ LeetCode → https://leetcode.com/u/pragyaverma_23/
 - LinkedIn: https://linkedin.com/in/pragyaverma23
 - Instagram: https://www.instagram.com/vermapragya_/
 - X: https://x.com/vermapragya_/
+
+---
+
+## Author
+
+Pragya Verma
