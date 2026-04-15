@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey!
 
 I'm Pragya — a developer focused on building clean, functional web applications.
 
@@ -18,7 +18,7 @@ Currently working with JavaScript and exploring React to build scalable and user
 
 * **Languages:** JavaScript, Python, C
 * **Frontend:** HTML, CSS, React
-* **Tools:** Git, GitHub
+* **Tools:** Git, GitHub , VS Code
 
 ---
 
