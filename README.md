@@ -47,8 +47,6 @@ I value clarity, simplicity, and writing code that is easy to maintain.
 ## Connect
 
 * **LinkedIn:** https://linkedin.com/in/pragyaverma23
-* **Instagram:** https://www.instagram.com/vermapragya_/
-* **X (Twitter):** https://x.com/vermapragya_/
 
 ---
 
