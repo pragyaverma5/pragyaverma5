@@ -1,8 +1,18 @@
-## Hi, I'm Pragya Verma 👋
+## Hi, I'm Pragya Verma
 
 I'm an IT student focused on building interactive, user-focused web applications.
 
 I enjoy creating real-world projects that combine clean UI with practical functionality, while strengthening my understanding of frontend architecture and application logic.
+
+---
+
+## Featured Project
+
+**RetroSnap Studio**  
+A retro-style photobooth web application with real-time camera filters and photostrip generation.
+
+Live: https://retrosnap-studio.vercel.app  
+Repository: https://github.com/pragyaverma5/retro-photobooth
 
 ---
 
@@ -18,7 +28,7 @@ I enjoy creating real-world projects that combine clean UI with practical functi
 
 * **Languages:** JavaScript, Python, C
 * **Frontend:** HTML, CSS, React
-* **Tools:** Git, GitHub , VS Code
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -38,7 +48,7 @@ I value clarity, simplicity, and writing code that is easy to maintain.
 
 ---
 
-## Coding Profile
+## Coding Profiles
 
 * **LeetCode:** https://leetcode.com/u/pragyaverma_23/
 
@@ -48,8 +58,4 @@ I value clarity, simplicity, and writing code that is easy to maintain.
 
 * **LinkedIn:** https://linkedin.com/in/pragyaverma23
 
----
 
-## Author
-
-**Pragya Verma**
