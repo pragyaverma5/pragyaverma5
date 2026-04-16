@@ -1,8 +1,8 @@
-# Hey!
+## Hi, I'm Pragya Verma 👋
 
-I'm Pragya — a developer focused on building clean, functional web applications.
+I'm an IT student focused on building interactive, user-focused web applications.
 
-Currently working with JavaScript and exploring React to build scalable and user-friendly frontend systems.
+I enjoy creating real-world projects that combine clean UI with practical functionality, while strengthening my understanding of frontend architecture and application logic.
 
 ---
 
@@ -27,6 +27,7 @@ Currently working with JavaScript and exploring React to build scalable and user
 * **API Console (JavaScript)** — A minimal API testing tool with request history and real-time response handling
 
 * **API Console (React)** — A React-based version with component-driven architecture, improved state handling, and a more structured UI
+* **RetroSnap Studio** — Interactive photobooth application with filters and photostrip generation
 
 ---
 
@@ -37,7 +38,7 @@ I value clarity, simplicity, and writing code that is easy to maintain.
 
 ---
 
-## Coding Profiles
+## Coding Profile
 
 * **LeetCode:** https://leetcode.com/u/pragyaverma_23/
 
