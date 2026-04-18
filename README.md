@@ -44,6 +44,7 @@ Repository: https://github.com/pragyaverma5/retro-photobooth
 ## Approach
 
 I focus on understanding how things work under the hood rather than just using tools.
+
 I value clarity, simplicity, and maintainable code.
 
 ---
