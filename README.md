@@ -27,7 +27,7 @@ Repository: https://github.com/pragyaverma5/retro-photobooth
 ## Tech Stack
 
 * **Languages:** JavaScript, Python, C
-* **Frontend:** HTML, CSS, React , vanilla js
+* **Frontend:** HTML, CSS, React
 * **Tools:** Git, GitHub, VS Code
 
 ---
@@ -44,7 +44,7 @@ Repository: https://github.com/pragyaverma5/retro-photobooth
 ## Approach
 
 I focus on understanding how things work under the hood rather than just using tools.
-I value clarity, simplicity, and writing code that is easy to maintain.
+I value clarity, simplicity, and maintainable code.
 
 ---
 
