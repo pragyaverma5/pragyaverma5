@@ -28,7 +28,7 @@ Repository: https://github.com/pragyaverma5/retro-photobooth
 
 * **Languages:** JavaScript, Python, C
 * **Frontend:** HTML, CSS, React
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub
 
 ---
 
