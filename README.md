@@ -20,7 +20,7 @@ Repository: https://github.com/pragyaverma5/retro-photobooth
 
 * Building real-world projects to strengthen core fundamentals
 * Exploring API design, async workflows, and frontend architecture
-* Practicing problem-solving through consistent coding
+* Practicing problem-solving through consistent coding on leetcode
 
 ---
 
