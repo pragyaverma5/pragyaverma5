@@ -49,14 +49,6 @@ I like building things to understand how they actually work — from structured,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyaverma5&layout=compact&theme=default" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 🌱 Currently
 
 Building a stronger foundation in full-stack development, expanding an existing project into a more complete application, and strengthening my understanding of data structures and problem-solving as I head toward third year.
