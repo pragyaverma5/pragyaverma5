@@ -21,6 +21,11 @@ I like building things to understand how they actually work — from structured,
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
+**Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 **Database & Tools**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -28,10 +33,25 @@ I like building things to understand how they actually work — from structured,
 
 ---
 
+### 🚀 Projects
+
+**Workforce Nexus** — a workforce management dashboard covering employee records, attendance, and leave tracking, built with structured, reusable components.
+`React` `JavaScript` `CSS`
+
+**Customer Segmentation** — an unsupervised learning project grouping customers into meaningful segments, including data cleaning, feature scaling, K-Means clustering, and PCA visualization.
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+**RetroSnap Studio** — a retro-themed photobooth application with live camera capture, filters, and downloadable photo strips.
+`React`
+
+**Developer Playground**  — a browser-based coding playground for experimenting with HTML, CSS, and JavaScript with live preview.
+`React` `JavaScript`
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragyaverma5&show_icons=true&theme=default&hide_title=false&count_private=false" alt="Pragya's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyaverma5&layout=compact&theme=default" alt="Top Languages" height="165" />
 </p>
 
@@ -39,7 +59,7 @@ I like building things to understand how they actually work — from structured,
 
 ### 🌱 Currently
 
-Building a stronger foundation in full-stack development, working on a project that expands on what I learned during my internship, and strengthening my understanding of data structures and problem-solving as I head toward third year.
+Building a stronger foundation in full-stack development, expanding an existing project into a more complete application, and strengthening my understanding of data structures and problem-solving as I head toward third year.
 
 ---
 
@@ -47,3 +67,4 @@ Building a stronger foundation in full-stack development, working on a project t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyaverma23)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:verma.pragya.2312@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pragyaverma_23/)
